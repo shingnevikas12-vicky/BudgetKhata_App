@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Budget Khata – Student Contribution Manager
 
 An offline-first Android app for student contribution accounting: events, per-student contributions,
@@ -169,3 +170,7 @@ and FileProvider, so the app still requests no runtime permissions.
   reminder carries the UPI text/link and QR images are shared separately.
 - Receipt attachments use SAF URIs; the provider must support persistable grants (most do).
 - The app has no cloud sync or multi-admin support by design; use backup/restore to move data.
+=======
+# BudgetKhata_App
+BudgetKhata is an easy-to-use app that helps you keep track of your daily income and expenses, manage your money, and see where your money goes.
+>>>>>>> 0402c501f8a782d0761f5904324b97fe74e8fffe
