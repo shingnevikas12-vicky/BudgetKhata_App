@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">बजेट खाता</string>
+    <string name="settings">सेटिंग्ज</string>
+    <string name="collections">वसुली</string>
+    <string name="upi_payment_qr">UPI आणि पेमेंट QR</string>
+    <string name="whatsapp_reminder">WhatsApp रिमाइंडर</string>
+    <string name="reports_exports">रिपोर्ट आणि हिशोब</string>
+    <string name="appearance">स्वरूप</string>
+    <string name="theme">थीम</string>
+    <string name="dynamic_colors">डायनॅमिक रंग</string>
+    <string name="privacy">गोपनीयता</string>
+    <string name="block_screenshots">नंबर लपवा</string>
+    <string name="data">डेटा</string>
+    <string name="backup_restore_delete">बॅकअप आणि हटवा</string>
+    <string name="allow_overpayment">जास्तीचे पैसे स्वीकारा</string>
+    <string name="language">भाषा</string>
+    <string name="save">जतन करा</string>
+    <string name="cancel">रद्द करा</string>
+    <string name="delete">हटवा</string>
+    <string name="back">मागे</string>
+    <string name="search">शोधा</string>
+    <string name="students">विद्यार्थी</string>
+    <string name="events">कार्यक्रम</string>
+    <string name="payments">पैसे जमा</string>
+    <string name="expenses">खर्च</string>
+    <string name="summary">सारांश</string>
+    <string name="collect_cash">रोख पैसे</string>
+    <string name="pending_balance">बाकी पैसे</string>
+    <string name="payment_history">पैसे भरल्याचा इतिहास</string>
+    <string name="add_student">विद्यार्थी जोडा</string>
+    <string name="new_event">नवीन कार्यक्रम</string>
+    <string name="add_expense">खर्च जोडा</string>
+    <string name="expected">एकूण येणे</string>
+    <string name="collected">मिळालेले</string>
+    <string name="pending">बाकी</string>
+    <string name="paid">पूर्ण भरले</string>
+    <string name="partial">थोडे बाकी</string>
+    <string name="overpaid">जास्त भरले</string>
+    <string name="total_contribution">एकूण पैसे</string>
+    <string name="amount_paid">भरलेले पैसे</string>
+    <string name="pending_amount">बाकी पैसे</string>
+    <string name="edit">बदला</string>
+    <string name="remove">काढा</string>
+    <string name="open">उघडा</string>
+    <string name="share">शेअर करा</string>
+    <string name="copy">कॉपी करा</string>
+    <string name="close">बंद करा</string>
+    <string name="reset">रिसेट</string>
+    <string name="retry">पुन्हा करा</string>
+    <string name="loading">लोड होत आहे…</string>
+    <string name="archive">अर्काइव्ह</string>
+    <string name="restore">परत आणा</string>
+    <string name="archived">बंद केलेले</string>
+    <string name="net">निव्वळ</string>
+    <string name="ok">ठीक आहे</string>
+    <string name="done">झाले</string>
+    <string name="error">चूक</string>
+    <string name="optional">गरज असल्यास</string>
+    <string name="tip">टीप</string>
+    <string name="home">मुख्यपृष्ठ</string>
+    <string name="all">सर्व</string>
+    <string name="add">जोडा</string>
+
+    <!-- Dashboard Main Actions -->
+    <string name="action_add_student">विद्यार्थी जोडा</string>
+    <string name="action_collect_payment">पैसे जमा करा</string>
+    <string name="action_pending_payments">बाकी पैसे</string>
+    <string name="action_view_accounts">हिशोब पहा</string>
+
+    <!-- Dashboard -->
+    <string name="reports">रिपोर्ट्स</string>
+    <string name="search_student_hint">विद्यार्थ्याचे नाव किंवा नंबर</string>
+    <string name="upi_not_configured_banner">सेटिंग्जमध्ये तुमचा UPI आयडी जोडा.</string>
+    <string name="start_first_event">पहिला कार्यक्रम सुरू करा</string>
+    <string name="first_event_msg">जत्रा किंवा सहलीसाठी कार्यक्रम तयार करा आणि विद्यार्थी जोडा.</string>
+    <string name="create_event">कार्यक्रम तयार करा</string>
+    <string name="add_student_instead">विद्यार्थी जोडा</string>
+    <string name="student">विद्यार्थी</string>
+    <string name="event">कार्यक्रम</string>
+    <string name="collect">जमा</string>
+    <string name="event_collections">कार्यक्रम वसुली</string>
+    <string name="tap_event_subtitle">हिशोब पाहण्यासाठी कार्यक्रमावर टॅप करा</string>
+    <string name="all_events">सर्व कार्यक्रम</string>
+    <string name="recent_payments">आत्ताच जमा केलेले</string>
+    <string name="confirmed_by_you">तुम्ही नोंदवलेले</string>
+    <string name="active_events_count">%1$d चालू कार्यक्रम</string>
+    <string name="active_event_count">१ चालू कार्यक्रम</string>
+    <string name="fully_paid_count">%1$d पूर्ण भरलेले</string>
+    <string name="to_follow_up_count">%1$d बाकी असलेले</string>
+    <string name="collected_label">जमा</string>
+
+    <!-- Students Screen -->
+    <string name="search_by_name_mobile">नाव किंवा नंबरने शोधा</string>
+    <string name="no_students_yet">अद्याप विद्यार्थी नाहीत</string>
+    <string name="no_matching_students">असा विद्यार्थी सापडला नाही</string>
+    <string name="add_student_msg">विद्यार्थी जोडा आणि त्यांना कार्यक्रमात सामील करा.</string>
+    <string name="no_matching_msg">दुसरे नाव किंवा नंबर वापरून पहा.</string>
+    <string name="collected_of">%2$s पैकी %1$s जमा</string>
+    <string name="delete_student_title">%1$s ला हटवायचे का?</string>
+    <string name="delete_student_msg">यामुळे विद्यार्थ्याची सर्व माहिती आणि हिशोब कायमचा हटवला जाईल.</string>
+    <string name="open_profile">प्रोफाइल पहा</string>
+    <string name="edit_details">माहिती बदला</string>
+    <string name="delete_student">विद्यार्थी हटवा</string>
+    <string name="send_whatsapp_reminder">रिमाइंडर पाठवा</string>
+    <string name="fully_paid">पूर्ण भरले</string>
+    <string name="pending_label">%1$s बाकी</string>
+    <string name="student_count_one">१ विद्यार्थी</string>
+    <string name="students_count_other">%1$d विद्यार्थी</string>
+
+    <!-- Events Screen -->
+    <string name="no_events_yet">अद्याप कार्यक्रम नाहीत</string>
+    <string name="no_events_msg">जत्रा, सहल किंवा पार्टीसाठी कार्यक्रम तयार करा.</string>
+    <string name="archived_events">बंद केलेले कार्यक्रम</string>
+    <string name="archived_events_msg">केवळ रेकॉर्डसाठी.</string>
+    <string name="delete_event_title">%1$s हटवायचे का?</string>
+    <string name="delete_event_msg">यामुळे कार्यक्रमाचा सर्व हिशोब हटवला जाईल. त्याऐवजी तुम्ही तो बंद (Archive) करू शकता.</string>
+    <string name="edit_event">बदल करा</string>
+    <string name="archive_event">बंद करा (Archive)</string>
+    <string name="restore_event">परत सुरू करा</string>
+    <string name="delete_event">कायमचे हटवा</string>
+    <string name="expenses_summary">खर्च %1$s \u00B7 %2$d%% जमा</string>
+
+    <!-- Event Detail -->
+    <string name="event_not_found">कार्यक्रम सापडला नाही</string>
+    <string name="event_deleted_msg">हा कार्यक्रम हटवला गेला असावा.</string>
+    <string name="add_students">विद्यार्थी जोडा</string>
+    <string name="event_actions">कार्यक्रम पर्याय</string>
+    <string name="reports_for_this_event">याचा हिशोब</string>
+    <string name="financial_summary">पैशांचा हिशोब</string>
+    <string name="net_balance">शिल्लक रक्कम</string>
+    <string name="net_balance_msg">शिल्लक = जमा पैसे वजा खर्च</string>
+    <string name="payment_status_across">%1$d विद्यार्थ्यांची स्थिती</string>
+    <string name="collection_percent_msg">आतापर्यंत %1$d%% पैसे जमा झाले आहेत.</string>
+    <string name="record_payment_banner">पैसे हातात मिळाल्यावरच नोंद करा.</string>
+    <string name="no_students_in_event">यात अद्याप विद्यार्थी नाहीत</string>
+    <string name="add_students_msg">पैसे जमा करण्यासाठी विद्यार्थी जोडा.</string>
+    <string name="student_actions">विद्यार्थी पर्याय</string>
+    <string name="remove_from_event">कार्यातून काढा</string>
+    <string name="edit_contribution">योगदान बदला</string>
+    <string name="record">नोंद</string>
+    <string name="share_qr">QR पाठवा</string>
+    <string name="open_upi">UPI उघडा</string>
+    <string name="no_payments_yet">अद्याप कोणी पैसे दिले नाहीत</string>
+    <string name="record_payment_msg">पैसे मिळाल्यावर येथे नोंद करा.</string>
+    <string name="payments_confirmed_banner">हे तुम्ही स्वतः नोंदवलेले पैसे आहेत.</string>
+    <string name="no_expenses_recorded">अद्याप खर्च नोंदवला नाही</string>
+    <string name="track_expenses_msg">खरा हिशोब पाहण्यासाठी खर्चाची नोंद करा.</string>
+    <string name="total_expenses">एकूण खर्च</string>
+
+    <!-- Student Detail -->
+    <string name="student_profile">विद्यार्थी प्रोफाइल</string>
+    <string name="edit_student">माहिती बदला</string>
+    <string name="more_actions">अधिक पर्याय</string>
+    <string name="student_not_found">विद्यार्थी सापडला नाही</string>
+    <string name="student_deleted_msg">हा विद्यार्थी हटवला असावा.</string>
+    <string name="confirmed_paid">मिळालेले पैसे</string>
+    <string name="not_in_any_event">अद्याप कोणत्याही कार्यक्रमात नाही</string>
+    <string name="add_to_event_msg">पैसे जमा करण्यासाठी विद्यार्थ्याला कार्यक्रमात जोडा.</string>
+    <string name="add_to_event">कार्यक्रमात जोडा</string>
+    <string name="delete_payment_msg">%2$s रोजीचे %1$s हटवले जातील.</string>
+    <string name="delete_student_confirm_msg">यामुळे विद्यार्थ्याची सर्व माहिती आणि हिशोब हटवला जाईल.</string>
+    <string name="open_event">कार्यक्रम उघडा</string>
+    <string name="share_payment_qr">पेमेंट QR पाठवा</string>
+    <string name="open_upi_app">UPI ॲप उघडा</string>
+    <string name="record_payment">पैसे जमा करा</string>
+    <string name="already_enrolled_msg">हा विद्यार्थी सर्व चालू कार्यक्रमात आहे.</string>
+    <string name="required_contribution">एकूण भरायचे पैसे</string>
+
+    <!-- Student Edit Screen -->
+    <string name="student_details">विद्यार्थ्याची माहिती</string>
+    <string name="mobile_numbers_msg">WhatsApp मेसेजसाठी मोबाईल नंबर वापरा.</string>
+    <string name="full_name">पूर्ण नाव</string>
+    <string name="mobile_number">मोबाईल नंबर</string>
+    <string name="country_code_msg">कंट्री कोड आपोआप जोडला जाईल.</string>
+    <string name="alternate_number">दुसरा नंबर</string>
+    <string name="choose_event_msg">कार्यक्रम आणि रक्कम निवडा.</string>
+    <string name="no_active_events_msg">अद्याप कोणताही चालू कार्यक्रम नाही.</string>
+    <string name="do_not_add_to_event">कोणत्याही कार्यक्रमात जोडू नका</string>
+    <string name="contribution_amount">रक्कम</string>
+    <string name="required_contribution_msg">या कार्यक्रमासाठी किती पैसे द्यायचे?</string>
+    <string name="payments_recorded_msg">पैसे मिळाल्याची खात्री झाल्यावरच जतन करा.</string>
+
+    <!-- Event Edit Screen -->
+    <string name="event_details">कार्यक्रमाची माहिती</string>
+    <string name="event_details_msg">प्रत्येक कार्यक्रमाचा हिशोब आणि विद्यार्थी वेगळे राहतात.</string>
+    <string name="event_name">कार्यक्रमाचे नाव</string>
+    <string name="event_type">कार्यक्रमाचा प्रकार</string>
+    <string name="event_date">तारीख</string>
+    <string name="description_optional">वर्णन (असल्यास)</string>
+    <string name="save_event">कार्यक्रम जतन करा</string>
+    <string name="archiving_msg">बंद केल्यावर हिशोब राहतो पण तो मुख्य ठिकाणी दिसत नाही.</string>
+
+    <!-- Settings Screen Labels -->
+    <string name="follow_system">सिस्टमनुसार</string>
+    <string name="light">प्रकाशित (Light)</string>
+    <string name="dark">काळपट (Dark)</string>
+    <string name="theme_mode_system">सिस्टमनुसार</string>
+    <string name="theme_mode_light">प्रकाशित</string>
+    <string name="theme_mode_dark">काळपट</string>
+    <string name="not_configured_yet">अद्याप भरले नाही</string>
+    <string name="whatsapp_reminder_subtitle">रिमाइंडर मेसेज कसा असावा?</string>
+    <string name="reports_exports_subtitle">हिशोब फाईलमध्ये (Excel/PDF) मिळवा</string>
+    <string name="dynamic_colors_subtitle">वॉलपेपरनुसार रंग बदला</string>
+    <string name="block_screenshots_subtitle">स्क्रीनशॉटमध्ये नंबर आणि पैसे लपवा</string>
+    <string name="backup_restore_subtitle">हिशोब जतन करा किंवा हटवा</string>
+    <string name="allow_overpayment_subtitle">जास्त पैसे आले तर स्वीकारायचे का?</string>
+    <string name="privacy_info_banner">सर्व माहिती फक्त तुमच्या याच फोनमध्ये राहते.</string>
+    <string name="manual_payment_warning">तुम्ही नोंद केल्याशिवाय काहीही जमा होत नाही.</string>
+
+    <!-- Record Payment Dialog -->
+    <string name="amount_received">मिळालेले पैसे</string>
+    <string name="pending_balance_label">बाकी: %1$s</string>
+    <string name="payment_date">तारीख</string>
+    <string name="payment_method">कसे दिले?</string>
+    <string name="reference_optional">ट्रान्झॅक्शन आयडी (असल्यास)</string>
+    <string name="notes_optional">टीप (असल्यास)</string>
+    <string name="payment_confirmation_msg">मला हे पैसे मिळाले आहेत याची मी खात्री करतो.</string>
+    <string name="save_payment">पैसे जमा करा</string>
+    <string name="saving_dots">जतन होत आहे…</string>
+    <string name="record_a_payment">पैसे जमा करा</string>
+    <string name="valid_amount_error">कृपया योग्य रक्कम भरा</string>
+
+    <!-- Data Settings Screen -->
+    <string name="backup_restore_title">बॅकअप आणि हटवा</string>
+    <string name="data_stays_phone">तुमचा डेटा सुरक्षित आहे</string>
+    <string name="data_stays_phone_msg">क्लाउडवर नाही, फक्त फोनमध्ये.</string>
+    <string name="backup_file_warning">बॅकअप फाईल जपून ठेवा, त्यात विद्यार्थ्यांची माहिती असते.</string>
+    <string name="export_backup">बॅकअप घ्या (Export)</string>
+    <string name="export_backup_msg">सर्व माहिती एका फाईलमध्ये जतन करा.</string>
+    <string name="choose_save_location">कुठे जतन करायचे निवडा</string>
+    <string name="restore_backup">बॅकअप परत घ्या (Restore)</string>
+    <string name="restore_backup_msg">जुन्या फाईलमधून सर्व माहिती परत आणा.</string>
+    <string name="select_backup_file">फाईल निवडा</string>
+    <string name="delete_all_records">सर्व माहिती हटवा</string>
+    <string name="delete_all_records_msg">सर्व विद्यार्थी आणि हिशोब हटवले जातील.</string>
+    <string name="delete_all_data">सर्व डेटा हटवा</string>
+    <string name="replace_all_data_title">सर्व माहिती बदलायची का?</string>
+    <string name="backup_contains_msg">यात हे समाविष्ट आहे:</string>
+    <string name="replace_warning_msg">सर्व काही बदलले जाईल. जुनी माहिती कायमची जाईल.</string>
+    <string name="delete_all_data_confirm_title">सर्व माहिती हटवायची का?</string>
+    <string name="cannot_be_undone_msg">हे पुन्हा मिळवता येणार नाही. पुष्टीसाठी DELETE लिहा.</string>
+    <string name="type_delete_label">DELETE लिहा</string>
+    <string name="tip_export_backup">टीप: आधी बॅकअप घ्या.</string>
+    <string name="delete_everything">सर्वकाही हटवा</string>
+    <string name="backup_saved">बॅकअप जतन झाला</string>
+    <string name="backup_save_failed">बॅकअप घेता आला नाही</string>
+    <string name="backup_read_failed">फाईल वाचता आली नाही</string>
+    <string name="restore_success_msg">माहिती यशस्वीपणे परत आली</string>
+    <string name="delete_everything_success">सर्व माहिती हटवली गेली</string>
+
+    <!-- Reminder Template Screen -->
+    <string name="reminder_message">रिमाइंडर मेसेज</string>
+    <string name="whatsapp_reminder_title">WhatsApp रिमाइंडर</string>
+    <string name="whatsapp_reminder_msg">हा मेसेज विद्यार्थ्याच्या नंबरवर WhatsApp मध्ये उघडेल.</string>
+    <string name="placeholder_hint">उदा. {amount} लिहिल्यावर तिथे विद्यार्थ्याची बाकी रक्कम दिसेल.</string>
+    <string name="message_template">मेसेज कसा असावा?</string>
+    <string name="save_message">मेसेज जतन करा</string>
+    <string name="live_preview">बघा कसा दिसेल</string>
+    <string name="using_sample_msg">नमुना माहिती</string>
+    <string name="sample_data_msg">नमुना</string>
+    <string name="whatsapp_paid_warning">फक्त मेसेज पाठवल्याने पैसे जमा होत नाहीत.</string>
+
+    <!-- UPI Settings Screen -->
+    <string name="permanent_receive_qr">कायमस्वरूपी QR कोड</string>
+    <string name="set_payee_name_below">खाली तुमचे नाव लिहा</string>
+    <string name="no_upi_id_set">अद्याप आयडी भरला नाही</string>
+    <string name="qr_generation_msg">QR साठी UPI आयडी आणि नाव लिहा.</string>
+    <string name="scan_upi_apps_msg">कोणत्याही UPI ॲपवरून स्कॅन करा.</string>
+    <string name="use_own_qr">स्वतःचा QR फोटो वापरा</string>
+    <string name="replace_qr">QR फोटो बदला</string>
+    <string name="use_generated">तयार केलेला वापरा</string>
+    <string name="upi_account_details">UPI हिशोब</string>
+    <string name="upi_details_subtitle">मेसेज आणि QR साठी वापरले जातात.</string>
+    <string name="upi_id_vpa">तुमचा UPI आयडी (VPA)</string>
+    <string name="payee_name_label">तुमचे नाव</string>
+    <string name="payment_instructions">सूचना</string>
+    <string name="save_upi_settings">UPI जतन करा</string>
+    <string name="test_upi_link">लिंक तपासा</string>
+    <string name="copy_upi_link">लिंक कॉपी करा</string>
+    <string name="upi_settings_saved">UPI जतन झाले</string>
+    <string name="custom_qr_removed">QR फोटो काढला</string>
+    <string name="custom_qr_saved">QR फोटो जतन केला</string>
+    <string name="payee_name_required">नाव भरणे गरजेचे आहे</string>
+    <string name="upi_info_banner">ॲप उघडणे म्हणजे पैसे मिळणे नाही. पडताळणी केल्यावरच नोंद करा.</string>
+    <string name="err_image_read">फोटो वाचता आला नाही</string>
+    <string name="err_upi_config_required">आधी UPI आयडी आणि नाव भरा</string>
+    <string name="upi_id_copied">UPI आयडी कॉपी केला</string>
+    <string name="upi_app_opened">UPI ॲप उघडले</string>
+    <string name="no_upi_app_found">फोनमध्ये UPI ॲप नाही</string>
+    <string name="upi_link_copied">लिंक कॉपी केली</string>
+
+    <!-- Reports Screen -->
+    <string name="full_pdf">पूर्ण PDF</string>
+    <string name="csv_saved">CSV जतन केले</string>
+    <string name="csv_save_failed">CSV जतन करता आले नाही</string>
+    <string name="pdf_create_failed">PDF तयार झाली नाही</string>
+    <string name="share_pdf_report">हिशोब (PDF) पाठवा</string>
+    <string name="reports_banner_msg">फक्त पुष्टी झालेल्या पैशांचा यात हिशोब असतो.</string>
+    <string name="reports_upi_tip">टीप: सेटिंग्जमध्ये UPI भरल्यास रिमाइंडरमध्ये माहिती येईल.</string>
+    <string name="nothing_to_show">काहीही नाही</string>
+    <string name="preview_stats">एकूण %1$d ओळी</string>
+    <string name="showing_first_rows">पहिली ४० ओळी दिसत आहेत.</string>
+
+    <!-- Enums -->
+    <string name="event_type_jatra">कॉलेज जत्रा</string>
+    <string name="event_type_nss">NSS उपक्रम</string>
+    <string name="event_type_festival">कॉलेज उत्सव</string>
+    <string name="event_type_tour">शैक्षणिक सहल</string>
+    <string name="event_type_party">क्लास पार्टी</string>
+    <string name="event_type_other">इतर</string>
+    <string name="payment_method_cash">रोख (Cash)</string>
+    <string name="payment_method_upi">UPI / Online</string>
+    <string name="payment_method_bank">बँक ट्रान्सफर</string>
+    <string name="payment_method_other">इतर</string>
+    <string name="expense_cat_food">खाणे-पिणे</string>
+    <string name="expense_cat_transport">वाहतूक (गाडी)</string>
+    <string name="expense_cat_venue">जागा / हॉल</string>
+    <string name="expense_cat_printing">साहित्य</string>
+    <string name="expense_cat_other">इतर</string>
+
+    <!-- Status Chip Labels -->
+    <string name="status_paid">पूर्ण भरले</string>
+    <string name="status_partial">थोडे बाकी</string>
+    <string name="status_pending">काहीच नाही</string>
+
+    <!-- Payment Actions -->
+    <string name="whatsapp_opened_msg">WhatsApp उघडले. तपासा आणि पाठवा.</string>
+    <string name="whatsapp_not_installed_title">WhatsApp नाही</string>
+    <string name="whatsapp_not_installed_msg">रिमाइंडरसाठी WhatsApp इंस्टॉल करा.</string>
+    <string name="copy_message">मेसेज कॉपी करा</string>
+    <string name="reminder_message_copied">मेसेज कॉपी केला</string>
+    <string name="mobile_number_needed_title">नंबर हवा आहे</string>
+    <string name="mobile_number_needed_msg">%1$s चा नंबर बरोबर नाही.</string>
+    <string name="could_not_open_whatsapp">WhatsApp उघडता आले नाही</string>
+    <string name="upi_not_configured_title">UPI भरलेले नाही</string>
+    <string name="upi_not_configured_msg">आधी सेटिंग्जमध्ये UPI माहिती भरा.</string>
+    <string name="upi_app_opened_msg">UPI ॲप उघडले. पडताळणी स्वतः करा.</string>
+    <string name="no_upi_app_found_title">UPI ॲप नाही</string>
+    <string name="no_upi_app_found_msg">GPay किंवा PhonePe इंस्टॉल करा.</string>
+    <string name="copy_details">माहिती कॉपी करा</string>
+    <string name="upi_details_copied">माहिती कॉपी केली</string>
+    <string name="could_not_create_qr_title">QR तयार झाला नाही</string>
+    <string name="could_not_create_qr_msg">माहिती कॉपी करून पाठवा.</string>
+    <string name="upi_payment_details_copied">माहिती कॉपी केली</string>
+
+    <!-- Report Types -->
+    <string name="report_summary_label">कार्यक्रमाचा हिशोब</string>
+    <string name="report_summary_desc">प्रत्येक कार्यक्रमाचे एकूण पैसे</string>
+    <string name="report_paid_label">पैसे भरलेले विद्यार्थी</string>
+    <string name="report_paid_desc">ज्यांनी पूर्ण पैसे दिले आहेत</string>
+    <string name="report_partial_label">कमी पैसे दिलेले</string>
+    <string name="report_partial_desc">ज्यांनी काही पैसे दिले पण पूर्ण नाहीत</string>
+    <string name="report_pending_label">पैसे न दिलेले विद्यार्थी</string>
+    <string name="report_pending_desc">ज्यांनी अद्याप काहीच दिले नाही</string>
+    <string name="report_ledger_label">सर्व विद्यार्थ्यांची यादी</string>
+    <string name="report_ledger_desc">पूर्ण यादी आणि हिशोब</string>
+    <string name="report_expenses_label">खर्चाचा रिपोर्ट</string>
+    <string name="report_expenses_desc">सर्व खर्चाची माहिती</string>
+
+    <!-- Validation -->
+    <string name="err_name_required">नाव लिहा</string>
+    <string name="err_name_short">नाव खूप लहान आहे</string>
+    <string name="err_name_long">नाव खूप मोठे आहे</string>
+    <string name="err_phone_required">नंबर लिहा</string>
+    <string name="err_phone_invalid">नंबर चुकीचा आहे</string>
+    <string name="err_phone_country_code">कंट्री कोड टाका</string>
+    <string name="err_alt_phone_invalid">दुसरा नंबर चुकीचा आहे</string>
+    <string name="err_contribution_required">रक्कम लिहा</string>
+    <string name="err_contribution_greater_zero">शून्यापेक्षा जास्त असावे</string>
+    <string name="err_amount_large">रक्कम खूप मोठी आहे</string>
+    <string name="err_amount_required">रक्कम लिहा</string>
+    <string name="err_amount_greater_zero">शून्यापेक्षा जास्त असावे</string>
+    <string name="err_amount_exceed_pending">बाकी %1$s पेक्षा जास्त नसावे</string>
+    <string name="err_expense_amount_required">खर्चाची रक्कम लिहा</string>
+    <string name="err_event_name_required">कार्यक्रमाचे नाव लिहा</string>
+    <string name="err_event_name_long">नाव खूप मोठे आहे</string>
+    <string name="err_desc_required">वर्णन लिहा</string>
+    <string name="err_desc_long">खूप मोठे आहे</string>
+    <string name="err_upi_id_required">UPI आयडी लिहा</string>
+    <string name="err_upi_id_invalid">आयडी चुकीचा आहे</string>
+    <string name="err_pin_digits">पिन ४-६ अंकी हवा</string>
+    <string name="err_pin_only_digits">फक्त अंक वापरा</string>
+    <string name="err_duplicate_phone">हा नंबर आधीच वापरला आहे</string>
+    <string name="receipt_attached">पावती आहे</string>
+    <string name="expense_entries">%1$d खर्चाच्या नोंदी</string>
+    <string name="net_balance_dashboard_msg">शिल्लक = जमा वजा खर्च</string>
+</resources>

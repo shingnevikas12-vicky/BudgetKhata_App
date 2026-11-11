@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <cache-path name="reports" path="reports/" />
+    <cache-path name="qr_cache" path="qr/" />
+    <cache-path name="share" path="share/" />
+    <files-path name="qr_files" path="qr/" />
+</paths>
